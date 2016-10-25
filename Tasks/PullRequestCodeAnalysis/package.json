@@ -1,0 +1,13 @@
+{
+  "name": "Agent.Tasks.PRCA",
+  "version": "0.1.0",
+  "author": "Microsoft Corporation",
+  "description": "Post code analysis issues as comments on a pull request",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Microsoft/vsts-tasks/issues"
+  },
+  "dependencies": {
+    "vsts-task-lib": "0.9.7"
+  }
+}
